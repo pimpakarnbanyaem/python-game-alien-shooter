@@ -15,6 +15,7 @@ WIN = pygame.display.set_mode((WIDTH,HEIGHT))
 #icon & caption
 pygame.display.set_caption("เกมยิงเอเลี่ยน")
 icon=pygame.image.load('spaceship.png')
+
 pygame.display.set_icon(icon)
 
 #image & bg
